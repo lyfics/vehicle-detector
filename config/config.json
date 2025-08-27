@@ -1,0 +1,16 @@
+{
+  "iou": 0.38,
+  "conf": 0.56,
+  "rate": 0.01,
+  "save_res": true,
+  "save_txt": true,
+  "save_res_path": "pre_result",
+  "save_txt_path": "pre_labels",
+  "models_path": "models",
+  "open_fold": "C:/Users/Administrator/Desktop/yolov8_GUI-main/yolov8_GUI-main",
+  "show_trace": true,
+  "show_labels": true,
+  "rtsp_ip": "rtsp://admin:admin@10.30.84.247:8554/live",
+  "car_id": "29",
+  "car_threshold": 6
+}
